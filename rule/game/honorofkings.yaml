@@ -1,0 +1,12 @@
+payload:
+  # Honor of Kings 国际服主要域名
+  - DOMAIN-SUFFIX,honorofkings.com
+  - DOMAIN-SUFFIX,hohglobal.com
+  - DOMAIN-SUFFIX,timi.com
+  - DOMAIN-SUFFIX,levelinfinite.com
+  - DOMAIN,global-game-server.hohglobal.com
+  - DOMAIN,h5.honorofkings.com
+  - DOMAIN,api.honorofkings.com
+  # 关键字
+  - DOMAIN-KEYWORD,honorofkings
+  - DOMAIN-KEYWORD,hohglobal
