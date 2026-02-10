@@ -11,6 +11,7 @@ payload:
   - DOMAIN,api.honorofkings.com
   - DOMAIN,hok-sg-act.playerinfinite.com
   - DOMAIN,atm-broker-tcp-hok.vasdgame.com
+  - DOMAIN,dycntw-inapps.appsflyersdk.com
   # 关键字
   - DOMAIN-KEYWORD,honorofkings
   - DOMAIN-KEYWORD,hohglobal
